@@ -1,7 +1,7 @@
 
 n = 8 
 
-# To take the input from the user
+
 #num = float(input('Enter a number: '))
 
 num_sqrt = n ** 0.45
